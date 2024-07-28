@@ -1,0 +1,9 @@
+.navicon{
+    width: 20px;
+    height: 20px;
+}
+.Nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
